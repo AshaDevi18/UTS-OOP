@@ -1,5 +1,5 @@
 package pengguna;
-
+//
 public class Mhs extends User {
     private String nama;
     private String nim;
